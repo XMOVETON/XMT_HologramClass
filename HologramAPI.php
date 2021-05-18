@@ -1,6 +1,6 @@
 <?php
 
-namespace XMT\floatingtext;
+namespace XMT;
 
 use pocketmine\Server;
 use pocketmine\level\particle\FloatingTextParticle;
